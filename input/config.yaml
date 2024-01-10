@@ -1,0 +1,6 @@
+dataset: jewellery
+frac: 0.95
+random_state: 42
+model: kmeans
+no_of_clusters: 4
+model_path: please enter the model path
